@@ -4,16 +4,85 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+        <!-- JavaScript Bundle with Popper -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+            crossorigin="anonymous"></script>
+            <link rel="stylesheet" href="/css/register.css">
     <title>Registration</title>
 </head>
-<body>
-    <div class="container">
-        <div class="form">
-            <label for="name">Name</label>
-            <input type="text" name="name" placeholder="John">
-            <label for="surname">Surname</label>
-            <input type="text" name="surname" placeholder="Doe">
+
+    <h1>Register</h1>
+    
+    <div class="container offset-3">
+            <form action="" class="form">
+            <div class="row">
+    
+                <div class="col-3">
+                    <label for="Name" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="Name" name ="name" placeholder="John">
+                </div>
+                <div class="col-3">
+                    <label for="Surname" class="form-label">Surname</label>
+                    <input type="text" class="form-control" id="Surname" name="Surname" placeholder="Doe">
+                </div>
+             
+            </div>
+            <div class="row">
+                <div class="col-3">
+                    <label for="email" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="email" name="email" placeholder="JD@gmail.com">
+                </div>
+                <div class="col-3">
+                    <label for="cellnumber" class="form-label">Cell phone number</label>
+                    <input type="password" class="form-control" id="cellnumber" name="cellnumber">
+                </div>
+            </div>
+        </br>
+        <label for="Artfomr">Select your Art Form</label>
+            <div class="col">
+                    <select name="artfomr" id="artform">
+                        <option value="fineArts">Fine Art</option>
+                        <option value="Sculptures">Sculptures</option>
+                        <option value="FashionDesigner">Fashion Designer</option>
+                        <option value="Model">Model</option>
+                        <option value="Dancer">Dancer</option>
+                        <option value="Dj">DJ</option>
+                        <option value="MusicProducer">Music Producer</option>
+                        <option value="Poet">Poet</option>
+                        <option value="Author">Author</option>
+                        <option value="Musician">Musician</option>
+                        <option value="Actor">Actor</option>
+                    </select>
+                </div>
+           
+    
+                 </br>
+                <div class="col-6">
+                    <label for="Address" class="form-label">Address</label>
+                    <textarea class="form-control" id="Address" rows="3"></textarea>
+                </div>
+                <div class="col-3">
+                    <label for="exampleFormControlInput1" class="form-label">Password</label>
+                    <input type="text" class="form-control" id="Surname" name="Surname" placeholder="************">
+                </div>
+                <div class="col-3">
+                    <label for="exampleFormControlInput1" class="form-label">Confirm Password</label>
+                    <input type="text" class="form-control" id="Surname" name="password" placeholder="***********">
+                </div>
+    
+    
+            <div class="login-signup">
+                <span class="text">Not a member?
+                    <a href="/login.html" class="text signup-link">login</a>
+                </span>
+            </div>
         </div>
+        
     </div>
+
 </body>
 </html>
