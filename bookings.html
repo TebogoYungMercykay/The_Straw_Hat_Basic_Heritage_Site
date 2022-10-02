@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Smart Art</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="region-utility">
+        <ul class="nav">
+            <li><a href="#" target="_blank"><i class="fa fa-phone" aria-hidden="true"></i></a></li>
+            <li><a href="#" target="_blank"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+            <li><a href='#' target='_blank'><i class="fa fa-whatsapp"></i></a></li>
+            <li><a href="#" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a href="#" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+            <li><a href="#" target="_blank">Login<i class="login"></i></a></li>
+        </ul>
+        
+        <hr class="hr">
+    </div>
+    <header>
+        <div class="col-sm-4 logo">
+                <a href="home.html"><img src="images/logos/smart_art.png.png" alt="logo"/></a>
+        </div>
+        <div class="col-sm-8 nav">
+                <a href="home.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="Contact.html">Contact Us</a>
+                 <a class="active" href="bookings.html">Bookings</a>
+        </div>
+    </header>
+
+<div class="container">
+   <h2>Book Our Creative Talents</h2></br></br>
+  <form action="/action_page.php">
+    <div class="row">
+ 
+      <div class="col-25">
+        <label for="fname">First Name</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="fname" name="firstname" placeholder="Write your name..">
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-25">
+        <label for="lname">Last Name</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="lname" name="lastname" placeholder="write your last name..">
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-25">
+        <label for="eaddress">Email Address</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="eaddress" name="emailaddress" placeholder="Write your email addre..">
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-25">
+        <label for="cnumber">Contact Number</label>
+      </div>
+      <div class="col-75">
+        <input type="number" id="cnumber" name="contactnumber" placeholder="Write your contact number..">
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-25">
+        <label for="province">Your Province</label>
+      </div>
+      <div class="col-75">
+        <select id="provinces" name="provinces">
+        <option value="selection">Select Your Province Below</option>
+          <option value="easterncape">Eastern Cape</option>
+          <option value="freestate">Free State</option>
+          <option value="gauteng">Gauteng</option>
+           <option value="northwest">North West</option>
+          <option value="northerncape">Northern Cape</option>
+          <option value="limpompo">Limpompo</option>
+           <option value="kwazulunatal">KwaZulu-Natal</option>
+          <option value="mpumalanga">Mpumalanga</option>
+          <option value="westerncape">Western Cape</option>
+        </select>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-25">
+        <label for="district">Your District Municipality</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="dmunicipality" name="districtmunicipality" placeholder="Your district municipality..">
+      </div>
+      </div>
+    
+    <div class="row">
+      <div class="col-25">
+        <label for="description">Describe Your Event</label>
+      </div>
+      <div class="col-75">
+        <textarea id="description" name="description" placeholder="Describe your event, what do you need the service for?" style="height:200px"></textarea>
+      </div>
+    </div>
+    
+    <div class="row">
+      <input type="submit" value="Submit">
+    </div>
+  </form>
+</div>
+<footer>
+  <p class="copyright">Copyright &copy;2022. Designed By Straw Hat Team</p>
+</footer>
+</body>
