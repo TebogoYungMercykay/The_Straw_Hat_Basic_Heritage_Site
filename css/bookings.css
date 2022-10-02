@@ -1,0 +1,472 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif !important;
+  background-image: url(../img/bg-new.png);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 0;
+  margin: 0;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: right;
+  width: 30%;
+  padding: 0px;
+}
+
+/* Style the list inside the menu */
+nav a {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+}
+
+/* Clear floats after the columns */
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  font-family: auto;
+  background-color: #8c8c8c;
+  padding: 10px;
+  text-align: center;
+  color: #000000;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+p {
+  padding: 0;
+  margin: 0 !important;
+}
+
+.logo img {
+  width: 12%;
+}
+
+.logo {
+  text-align: left;
+}
+
+.homee {
+    text-align: right !important;
+}
+
+section {
+  width: 95%;
+  margin: 2.5% auto !important;
+}
+
+.col-sm-8.abt {
+    float: right;
+    padding: 0 30px 0px 0 !important;
+}
+
+section.hom {
+    width: 95%;
+    margin: 17% auto !important;
+    padding: 0px 30px !important;
+}
+
+.col-sm-8.work {
+  float: right; 
+  padding: 0px;
+}
+.col-sm-8.nav {
+  display: block;
+  height: 60px;
+  float: right;
+  margin-top: 0px !important;
+  width: 66% !important;
+}
+
+.nav a {
+  color: #951207;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-decoration: none !important;
+  margin: 0 14px;
+}
+
+.nav a:hover {
+    background-color: #fa8c04;
+    color: #064b23 !important;
+    padding: 25px 20px 24px 20px;
+    transition: 1s ease-in-out;
+}
+
+p.copyright {
+  font-size: 16px;
+  font-family: serif;
+  letter-spacing: 3px;
+}
+
+p.paragraph {
+  font-size: 17px;
+  color: #8c8c8c !important;
+  font-family: serif;
+  letter-spacing: 2px;
+}
+
+.col-sm-8 {text-align: right;width: 70% !important;}
+
+h1.title {
+    color: #fff !important;
+    text-align: right !important;
+    text-transform: uppercase;
+    margin: 0;
+    font-family: serif;
+}
+
+div#custom-transitions {
+    float: right !important;
+}
+
+.col-sm-6.cntct1 {
+  text-align: center;
+}
+
+.col-sm-4.cntct2 {
+  text-align: right;
+  padding: 35px 30px 10px 0px;
+}
+
+.col-sm-3.cntct3 {
+  text-align: right;
+  padding: 0px 20px 0px 0px !important;
+}
+
+.cv img {
+  margin: 30px 0;
+  max-width: 69%;
+}
+
+a.typewrite {
+    color: #a9002f;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 22px;
+    font-weight: 600 !important;
+}
+
+a.typewrite.home {
+  color: #a9002f;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: right;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+a.typewrite.cntct {
+  color: #8c8c8c !important;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: right;
+  font-size: 30px !important;
+  font-weight: 600;
+}
+
+a.typewrite.wrk {
+    font-size: 30px;
+    font-weight: 600;
+    padding: 0 30px 0 0;
+}
+
+section.contact {
+    display: block !important;
+}
+
+section.about {
+  height: 20vh;
+}
+
+a:focus, a:hover {
+  color: #a9002f !important;
+  text-decoration: none !important;
+}
+
+#custom-transitions img {
+  max-width: 24%;
+}
+
+a.typewrite.cntact {
+    text-align: center;
+    font-size: 15px !important;
+    color: #8c8c8c !important;
+    font-weight: 600 !important;
+}
+
+p.para a {
+    text-align: center;
+    margin-top: 0px !important;
+    font-size: 13px !important;
+}
+
+p.para-cntct {
+    font-size: 15px !important;
+    padding: 6px 0px 6px 25px;
+    color: #8c8c8c !important;
+}
+
+p.para-cntct a {
+    color: #a9002f !important;
+}
+
+p.para-address {
+    font-size: 15px !important;
+    padding: 6px 0px 6px 25px;
+    color: #a9002f !important;
+}
+
+p.para-title {
+  font-size: 15px !important;
+  padding: 2px;
+  color: #313131;
+  margin-top: 10px !important;
+  text-transform: uppercase !important;
+}
+
+.col-sm-10.titl {
+  float: right;
+  width: 60% !important;
+}
+
+b {
+  font-size: 18px !important;
+  font-weight: 600;
+  color: #a9002f !important;
+}
+.col-sm-12.bottm {
+  width: 100%;
+  text-align: center !important;
+}
+
+.col-sm-4.work img {
+  max-width: 100% !important;
+  margin-bottom: 20px;
+}
+
+.col-sm-4.work {
+    /* padding: 15px 15px; */
+    text-align: center;
+}
+
+p.wrk {
+  font-size: 16px;
+  color: #ffffff;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+}
+
+.fa {
+  color: #fb8c04 !important;
+  font-size: 18px !important;
+}
+
+.region-utility a:hover {
+  background-color: #960e07 !important;
+  color: #fff !important;
+}
+
+.region-utility a:hover .fa {
+  color: #fff !important;
+}
+
+.col-sm-4.work a:hover {
+    text-decoration: none !important;
+    color: #fff !important;
+}
+
+.region-utility {
+  display: block;
+  position: fixed;
+  z-index: 2920;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #ffffff;
+  height: 37px;
+}
+
+.region-utility .nav{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  list-style: none;
+  height: 33px;
+  margin: auto;
+  padding: 0;
+  width: 93% !important;
+}
+
+.nav>li>a {
+  position: relative;
+  display: block;
+  text-align: center !important;
+  padding: 10px 10px 10px 15px !important;
+}
+
+.hr {
+  border: 2px solid #a9002f !important;
+  margin: 0;
+}
+
+header {
+  display: flex !important;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent !important;
+  margin: 35px auto 0 auto;
+  width: 100%;
+  height: 70px !important;
+  font-size: 35px;
+  padding: 0px 30px;
+}
+
+.active {
+    color: #ffffff !important;
+}
+
+.active:hover {
+  color: #a9002f !important;
+}
+
+/* image overlay */
+.container {
+  position: relative;
+  width: 60% !important;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  height: 87% !important;
+  width: 90.9% !important;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #a9002f;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+  text-decoration: none !important;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* The Bookings css */
+
+* {
+  box-sizing: border-box;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 50px 50px !important;
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
