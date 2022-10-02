@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway');
 
-
 div.card-body{
 	font-family: 'Raleway', sans-serif;
 }
-
+.container {
+	background: #fff;
+	border-radius: 10px;
+	box-shadow: 0 5px 10px rgba(44, 11, 11, 0.1);
+	overflow: hidden;
+	/* margin: 0 20px; */
+}
 div.card-header{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
