@@ -56,7 +56,6 @@ function submitData() {
             <p class="cart">Add to cart <i class="bx bx-cart-alt"></i></p>
                 </div>
         `;
-		document.querySelector(".uploadSculpture").innerHTML = output;
-        console.log("DONE!");
+		document.querySelector(".sculpturesGallerys").innerHTML = output;
     });
 }

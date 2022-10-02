@@ -7,17 +7,17 @@ http.onload = function(){
 		let output = "";
 		for(let item of Scuptures){
 			output += `
-				<div class="sculpturesGallery">
-				<p class="title">${item.Name}</p>
-				<p class="description">Location: ${item.Location}</p>
-				<img src="${item.Picture}" alt="${item.Name}">
-				<p class="description"> </p>
-				<p class="description">Price: R${item.Price}</p>
-				<p class="description">Creator: ${item.Creator}</p>
-				<p class="cart">Add to cart <i class="bx bx-cart-alt"></i></p>
-					</div>
+			<div class="sculpturesGallery">
+			<p class="title">${item.Name}</p>
+			<p class="description">Location: ${item.Location}</p>
+			<img src="${item.Picture}" alt="${item.Name}">
+			<p class="description"> </p>
+			<p class="description">Price: R${item.Price}</p>
+			<p class="description">Creator: ${item.Creator}</p>
+			<p class="cart">Add to cart <i class="bx bx-cart-alt"></i></p>
+			</div>
 			`;
 		}
-		document.querySelector(".uploadSculpture").innerHTML = output;
+		document.querySelector(".sculpturesGallerys").innerHTML = output;
 	}
 }
