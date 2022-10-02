@@ -1,0 +1,66 @@
+[
+    {
+        "Names":"Lehlogonolo Khumalo",
+        "Artwork_Desc":"Music Producer",
+        "Price":"489.00 per Record",
+        "Tax_Number":"5778787888888",
+        "Picture":"https://idmmag.com/wp-content/uploads/2017/08/Apiwe-Bubure.jpg",
+        "Contact_Details":"+27 62 333 8954 (lehlogonolo@gmail.com)"
+    },
+    {
+        "Names":"Mercy Tee",
+        "Artwork_Desc":"Music Producer",
+        "Price":"200.00 per Record",
+        "Tax_Number":"454678766777",
+        "Picture":"https://deeprospection.files.wordpress.com/2014/11/ralf-gum-vuzu-dstv.jpg",
+        "Contact_Details":"072 456 5678 (mercy@gmail.com)"
+    },
+    {
+        "Names":"Musa Tigere",
+        "Artwork_Desc":"Music Producer",
+        "Price":"300.00 per Record",
+        "Tax_Number":"889557575677",
+        "Picture":"https://www.electrowow.net/wp-content/uploads/2021/12/South-African-music-producer-UMngomezulu.jpg",
+        "Contact_Details":"066 456 7856 (musa@gmail.com)"
+    },
+    {
+        "Names":"Tshiamo Motaung",
+        "Artwork_Desc":"Music Producer",
+        "Price":"200.00 per Record",
+        "Tax_Number":"576879799999",
+        "Picture":"https://media.istockphoto.com/photos/mixedrace-female-artist-working-with-africanamerican-music-producer-picture-id1267511750?k=20&m=1267511750&s=612x612&w=0&h=T6eEQX7r1k8E3-VSPA3c4PLG1FxcVKWiiYQkVaw877Y=",
+        "Contact_Details":"+27 63 567 4954 (tshiamo@gmail.com)"
+    },
+    {
+        "Names":"New Nhlapo",
+        "Artwork_Desc":"Music Producer",
+        "Price":"189.00 per Record",
+        "Tax_Number":"4465756687977",
+        "Picture":"https://res.cloudinary.com/soundbetter/image/upload/c_fill,f_auto,g_face:auto,h_288,q_70,w_540/v1603748384/assets/photos/318657/062619-icehouse-119.jpg",
+        "Contact_Details":"+27 56 568 9054 (new@gmail.com)"
+    },
+    {
+        "Names":"Paul Mastutu",
+        "Artwork_Desc":"Music Producer",
+        "Price":"560.00 per Record",
+        "Tax_Number":"46768798000",
+        "Picture":"https://thumbs.dreamstime.com/b/nigerian-music-producer-cobhams-asuquo-working-studio-johannesburg-south-africa-april-nigerian-music-producer-cobhams-asuquo-207809345.jpg",
+        "Contact_Details":"071 272 8054 (paul@gmail.com)"
+    },
+    {
+        "Names":"Thabo Khoza",
+        "Artwork_Desc":"Music Producer",
+        "Price":"300.00 per Record",
+        "Tax_Number":"5776879999777",
+        "Picture":"https://www.musicinafrica.net/sites/default/files/styles/article_slider_large/public/images/article/201909/boston.jpg?itok=CHtH_7Rz",
+        "Contact_Details":"+27 82 567 8904 (thabo@gmail.com)"
+    },
+    {
+        "Names":"Tebogo Fauzi",
+        "Artwork_Desc":"Music Producer",
+        "Price":"350.00 per Record",
+        "Tax_Number":"35456768797779",
+        "Picture":"https://netstorage-briefly.akamaized.net/images/2c4fca044fe3f077.jpg?imwidth=900",
+        "Contact_Details":"+27 74 567 7899 (tebogo@gmail.com)"
+    }
+]

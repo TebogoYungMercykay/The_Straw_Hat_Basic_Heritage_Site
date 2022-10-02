@@ -1,0 +1,66 @@
+[
+    {
+        "Names":"Musa Tigere",
+        "Artwork_Desc":"Amapiano DJ",
+        "Price":"300.00 per Hour",
+        "Tax_Number":"889557575677",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTj8e8qCIcOzYAsCbE4xVWZn3L-V_s4S01g6pjTrIt2K8K37X&s",
+        "Contact_Details":"066 456 7856 (musa@gmail.com)"
+    },
+    {
+        "Names":"Khumalo Twins",
+        "Artwork_Desc":"Amapiano DJ",
+        "Price":"489.00 per Hour",
+        "Tax_Number":"5778787888888",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9t0-g5w2SvyLzxHwtsWLyzYAVlNEYxorrFm_gpDOVCVfFmUc&s",
+        "Contact_Details":"+27 62 333 8954 (lehlogonolo@gmail.com)"
+    },
+    {
+        "Names":"Thabo Khoza",
+        "Artwork_Desc":"House DJ",
+        "Price":"300.00 per Hour",
+        "Tax_Number":"5776879999777",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA1KccjhAe3jQzQX2vqOQ7PR9m8T27YN9W_2FEdneaFW3c4yUs&s",
+        "Contact_Details":"+27 82 567 8904 (thabo@gmail.com)"
+    },
+    {
+        "Names":"Mercy Tee",
+        "Artwork_Desc":"R&B DJ",
+        "Price":"200.00 per Hour",
+        "Tax_Number":"454678766777",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI33SPaPv8dg_Mj0EKcyyiyKvQGGVpIrE-wcmbDmW7NwGNBYI&s",
+        "Contact_Details":"072 456 5678 (mercy@gmail.com)"
+    },
+    {
+        "Names":"Arch Jr",
+        "Artwork_Desc":"Amapiano DJ",
+        "Price":"200.00 per Hour",
+        "Tax_Number":"576879799999",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdraytpSJT5KiLSZANNbj9enAgHmPi_UQ_mUlVVV6Q2iXUO_T6&s",
+        "Contact_Details":"+27 63 567 4954 (tshiamo@gmail.com)"
+    },
+    {
+        "Names":"Paul Magrel",
+        "Artwork_Desc":"House DJ",
+        "Price":"560.00 per Hour",
+        "Tax_Number":"46768798000",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4-nYm3TEXIIxfUUG1QCuBW-sPoN0S5EQY3Vv4uAQNb-Dxrpr0&s",
+        "Contact_Details":"071 272 8054 (paul@gmail.com)"
+    },
+    {
+        "Names":"Tebogo Fauzi",
+        "Artwork_Desc":"Hip Hop DJ",
+        "Price":"350.00 per Hour",
+        "Tax_Number":"35456768797779",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOiuN30q8yuYr97wdpQNixgf0cQxCx3iUeVbmQL_Kv4s4FKwY&s",
+        "Contact_Details":"+27 74 567 7899 (tebogo@gmail.com)"
+    },
+    {
+        "Names":"New Nhlapo",
+        "Artwork_Desc":"Local DJ",
+        "Price":"189.00 per Hour",
+        "Tax_Number":"4465756687977",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOjCPk7aIbEQ5e59zS8RfYA25kWMpQ4ZfwUQdWNJ5MW8X6bY&s",
+        "Contact_Details":"+27 56 568 9054 (new@gmail.com)"
+    }
+]

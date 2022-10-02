@@ -1,0 +1,66 @@
+[
+    {
+        "Names":"Lehlogonolo Khumalo",
+        "Artwork_Desc":"Fashion designer",
+        "Price":"489.00 per Des",
+        "Tax_Number":"5778787888888",
+        "Picture":"https://theculturetrip.com/wp-content/uploads/2017/08/stitch-steel_designer.jpg",
+        "Contact_Details":"+27 62 333 8954 (lehlogonolo@gmail.com)"
+    },
+    {
+        "Names":"Thabo Khoza",
+        "Artwork_Desc":"Fashion designer",
+        "Price":"300.00 per Des",
+        "Tax_Number":"5776879999777",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB4eKRN79Lt1omVNdx-5LV2Umm4WyJV79MVOguesEuwvMLAvMq&s",
+        "Contact_Details":"+27 82 567 8904 (thabo@gmail.com)"
+    },
+    {
+        "Names":"Musa Tigere",
+        "Artwork_Desc":"Fashion designer",
+        "Price":"300.00 per Des",
+        "Tax_Number":"889557575677",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt16Rd--bxMTHR0My-cACnv0hTWXb7TtWhDp5EtHvgpG-2Mez6&s",
+        "Contact_Details":"066 456 7856 (musa@gmail.com)"
+    },
+    {
+        "Names":"Paul Mastutu",
+        "Artwork_Desc":"Fashion designer",
+        "Price":"560.00 per Des",
+        "Tax_Number":"46768798000",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRahE8VUbUFyJ4FBdbI_X2I8p4BCr3UNLGFksTWrY9xg6R2g&s",
+        "Contact_Details":"071 272 8054 (paul@gmail.com)"
+    },
+    {
+        "Names":"Tebogo Fauzi",
+        "Artwork_Desc":"Fashion designer",
+        "Price":"350.00 per Des",
+        "Tax_Number":"35456768797779",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0PZjRL-YQQSc2zHNDQi0vkrQ03T6hEykUL8-uV3a88rCRn8Rk&s",
+        "Contact_Details":"+27 74 567 7899 (tebogo@gmail.com)"
+    },
+    {
+        "Names":"New Nhlapo",
+        "Artwork_Desc":"Fashion designer",
+        "Price":"189.00 per Design",
+        "Tax_Number":"4465756687977",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQmhYOLEl7HXp-V03hiXJ8mOZRxkyGodgyqUv1BhY8wfjMXWOt&s",
+        "Contact_Details":"+27 56 568 9054 (new@gmail.com)"
+    },
+    {
+        "Names":"Mercy Tee",
+        "Artwork_Desc":"Fashion designer",
+        "Price":"200.00 per Des",
+        "Tax_Number":"454678766777",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfG4ocABvp1VQXKtj96GT-ejpwcIl0x1xX6T0TNBNTsYmAk9zz&s",
+        "Contact_Details":"072 456 5678 (mercy@gmail.com)"
+    },
+    {
+        "Names":"Tshiamo Motaung",
+        "Artwork_Desc":"Fashion designer",
+        "Price":"200.00 per Des",
+        "Tax_Number":"576879799999",
+        "Picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE5QXaaVL-qo73YTJE689EmfFPwhyr8z5R12cA_JVzAxFTIiTf&s",
+        "Contact_Details":"+27 63 567 4954 (tshiamo@gmail.com)"
+    }
+]
