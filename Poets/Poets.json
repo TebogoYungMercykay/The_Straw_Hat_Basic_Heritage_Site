@@ -1,0 +1,66 @@
+[
+    {
+        "Names":"Thuto Khoza",
+        "Artwork_Desc":"Poet",
+        "Price":"300.00 for a Gig",
+        "Tax_Number":"5776879999777",
+        "Picture":"https://www.okayafrica.com/media-library/image.jpg?id=10393466&width=980",
+        "Contact_Details":"+27 82 567 8904 (thabo@gmail.com)"
+    },
+    {
+        "Names":"Mercy Tee",
+        "Artwork_Desc":"Poet",
+        "Price":"200.00 for a Gig",
+        "Tax_Number":"454678766777",
+        "Picture":"https://i.ytimg.com/vi/JBdWw1Zw0tM/maxresdefault.jpg",
+        "Contact_Details":"072 456 5678 (mercy@gmail.com)"
+    },
+    {
+        "Names":"Serote Mastutu",
+        "Artwork_Desc":"Poet",
+        "Price":"560.00 for a Gig",
+        "Tax_Number":"46768798000",
+        "Picture":"https://media.mg.co.za/wp-media/2019/03/0a0b2bf6-25-south-africa-has-a-new-poet-laureate.jpeg",
+        "Contact_Details":"071 272 8054 (paul@gmail.com)"
+    },
+    {
+        "Names":"Tebogo Fauzi",
+        "Artwork_Desc":"Poet",
+        "Price":"350.00 for a Gig",
+        "Tax_Number":"35456768797779",
+        "Picture":"https://static01.nyt.com/images/2018/01/17/arts/Willieobit/Willieobit-superJumbo.jpg",
+        "Contact_Details":"+27 74 567 7899 (tebogo@gmail.com)"
+    },
+    {
+        "Names":"Tshiamo Motaung",
+        "Artwork_Desc":"Poet",
+        "Price":"200.00 for a Gig",
+        "Tax_Number":"576879799999",
+        "Picture":"https://images.squarespace-cdn.com/content/v1/55a4c64ee4b0a121aeba3c8f/1565703882927-OMCHOLSHHU8JU3HC9LLN/maneo-mohale_andile-buka?format=1000w",
+        "Contact_Details":"+27 63 567 4954 (tshiamo@gmail.com)"
+    },
+    {
+        "Names":"Musa Tigere",
+        "Artwork_Desc":"Poet",
+        "Price":"300.00 for a Gig",
+        "Tax_Number":"889557575677",
+        "Picture":"https://i.ytimg.com/vi/jlssG718dDQ/maxresdefault.jpg",
+        "Contact_Details":"066 456 7856 (musa@gmail.com)"
+    },
+    {
+        "Names":"New Nhlapo",
+        "Artwork_Desc":"Poet",
+        "Price":"189.00 for a Gig",
+        "Tax_Number":"4465756687977",
+        "Picture":"https://cdn3.locable.com/uploads/resource/file/810242/fill/700x0/lebogang.png?timestamp=1616265447",
+        "Contact_Details":"+27 56 568 9054 (new@gmail.com)"
+    },
+    {
+        "Names":"Lehlogonolo Khumalo",
+        "Artwork_Desc":"Poet",
+        "Price":"489.00 for a Gig",
+        "Tax_Number":"5778787888888",
+        "Picture":"https://boksburgadvertiser.co.za/wp-content/uploads/sites/25/2015/03/Mzwaki-Mbuli-082.jpg",
+        "Contact_Details":"+27 62 333 8954 (lehlogonolo@gmail.com)"
+    }
+]

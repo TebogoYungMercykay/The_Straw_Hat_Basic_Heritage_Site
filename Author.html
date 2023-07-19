@@ -6,7 +6,97 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Author</title>
 </head>
+<style>
+#books{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: grey;
+    column-gap: 5px;
+    margin: 0% 5% 5% 5%;
+}
+.book{
+    height: 500px;
+    width: 350px;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    border: solid 1px white;
+    margin-left: 3%;
+    align-content: center;
+}
+#input-search{
+    width: 92%;
+    height: 25px;
+    font-size: 20px;
+    border: solid 1px grey;
+}
+#input-search:focus{
+    outline: none;
+}
+#search{
+    height: 50%;
+}
+div#search{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#btn-search{
+    width: 7%;
+    height: 28px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+#btn-search:hover{
+    cursor: pointer;
+}
+#head-title{
+    text-align: center;
+}
+#image{
+    display: flex;
+}
+img{
+    justify-content: center;
+    width: 250px;
+    height: 300px;
+}
+audio{
+    align-self: center;
+}
+</style>
 <body>
-    
+    <div id="main-content">
+        <div id="heading">
+            <h1 id="head-title">Published Books</h1>
+        </div>
+        <div id="search">
+            <span><input type="search" name="type" id="input-search"></span>
+            <span><button type="submit" id="btn-search">search</button></span>
+        </div>
+        <div id="books">
+            <article class="book">
+                <div id="image">
+                    <img src="https://m.media-amazon.com/images/I/51zJtCsTg2L._AC_SY780_.jpg" alt="culture">
+                </div>
+                <!-- <div id="information"> -->
+                    <p>Name: </p>
+                    <p>Author(s): </p>
+                    <p>description: </p>
+                    <p>Listen to Audio summary:</p>
+                    <audio controls src="#">
+                        <a href="#"></a>
+                    </audio>
+            </article>
+            <article class="book">
+                item-2
+            </article>
+            <article class="book">
+                item-3
+            </article>
+        </div>
+    </div>
 </body>
+<script>
+
+</script>
 </html>

@@ -1,0 +1,14 @@
+{
+  "name": "register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sello Tebogo",
+  "license": "ISC",
+  "dependencies": {
+    "nedb": "^1.8.0"
+  }
+}

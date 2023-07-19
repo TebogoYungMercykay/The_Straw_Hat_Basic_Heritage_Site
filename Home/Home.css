@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	/* background-color: rgb(237, 243, 233); */
+}
+body
+{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	min-height: 100vh;
+	color: #555;
+}
+h2
+{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 30px;
+	font-weight: 900;
+}
+.toplogo {
+	margin-top: 5px;
+}
+
+.toplogo img {
+	height: 30%;
+	width: 30%;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.Homes
+{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+	grid-gap: 2px;
+	margin: 20px;
+	max-width: 1240px;
+	padding: 20px;
+}
+.Home
+{
+	padding: 10px;
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+.Footer
+{
+    color: white;
+    background-color: #333333;
+    padding: 10px;
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333333;
+  }
+  
+  li {
+	float: left;
+  }
+  
+  li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 5px;
+	text-decoration: none;
+  }
+  
+  li a:hover {
+	background-color: #111111;
+  }
