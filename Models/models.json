@@ -8,22 +8,6 @@
         "Contact_Details":"+27 74 567 7899 (tebogo@gmail.com)"
     },
     {
-        "Names":"Lehlogonolo Khumalo",
-        "Artwork_Desc":"Model",
-        "Price":"489.00 for a Day",
-        "Tax_Number":"5778787888888",
-        "Picture":"https://giomodels.co.za/assets/images/gugu-1080x1350.jpeg",
-        "Contact_Details":"+27 62 333 8954 (lehlogonolo@gmail.com)"
-    },
-    {
-        "Names":"Twin Models",
-        "Artwork_Desc":"Model",
-        "Price":"300.00 for a Day",
-        "Tax_Number":"5776879999777",
-        "Picture":"http://www.modelacademy.co.za/wp-content/uploads/layerslider/home/model-1024x645.png",
-        "Contact_Details":"+27 82 567 8904 (thabo@gmail.com)"
-    },
-    {
         "Names":"Tshiamo Motaung",
         "Artwork_Desc":"Model",
         "Price":"200.00 for a Day",
@@ -54,6 +38,14 @@
         "Tax_Number":"889557575677",
         "Picture":"https://www.dut.ac.za/wp-content/uploads/2020/02/Amahle.jpg",
         "Contact_Details":"066 456 7856 (musa@gmail.com)"
+    },
+    {
+        "Names":"Mosa Kswes",
+        "Artwork_Desc":"Model",
+        "Price":"200.00 for a Day",
+        "Tax_Number":"576879799999",
+        "Picture":"https://cdn.24.co.za/files/Cms/General/d/3489/b56de90348c84e58b47c75f60593e3b2.jpg",
+        "Contact_Details":"+27 63 567 4954 (tshiamo@gmail.com)"
     },
     {
         "Names":"Paul Mastutu",
